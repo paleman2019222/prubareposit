@@ -22,7 +22,7 @@ public class Menu extends javax.swing.JFrame {
      */
     Conexion connect = new Conexion();
     Connection con;
-    
+    String arg;
     
     public Menu() {
         initComponents();
